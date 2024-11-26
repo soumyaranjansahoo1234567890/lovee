@@ -1,0 +1,14 @@
+ body{
+  background-color: black;
+  color: white;
+ }
+.alert{
+  display: none;
+}
+.smallContainer{
+  text-align: center;
+  background-color: rgb(245, 21, 21);
+}
+.btn{
+     margin-left: 400px;
+}
