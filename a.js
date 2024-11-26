@@ -5,7 +5,7 @@ let smallContainer=document.getElementById("head");
 
 no.addEventListener("mouseover",()=>{
   no.style.position="absolute";
-  no.style.top=Math.floor(Math.random()*100)+"vh";
+  no.style.top=Math.floor(Math.random()*10)+"vh";
   no.style.right=Math.random()*100+"vh";
 })
 yes.addEventListener("click",()=>{
